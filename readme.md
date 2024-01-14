@@ -15,6 +15,8 @@
 </a>
 </div>
 
+<br/>
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -22,6 +24,7 @@
         Trying to find motivation to do projects and grind LeetCode &nbsp;
         <br/>
         <pre>
+        <br/>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
         ☁ Digging into Cloud and Distributed systems
         🔒 Exploring cybersecurity
@@ -63,9 +66,9 @@
 
 ---
 
-<br/>
-
 <h3>I'm always jamming to my playlists 🎶</h3>
+
+<br/>
 
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
