@@ -57,9 +57,9 @@
 
 ---
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
+<div align="center"><a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E" alt="Data Card for Spotify">
-</a>
+</a></div>
 <br/>
 I spend more time thinking about doing projects than doing them
 
