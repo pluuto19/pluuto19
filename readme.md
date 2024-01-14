@@ -8,7 +8,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center">
+      <p align="center" style="font-family: 'Sono', sans-serif;">
         Trying to find motivation to do projects and grind LeetCode &nbsp;
 	      <br/>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
