@@ -24,7 +24,6 @@
         Trying to find motivation to do projects and grind LeetCode &nbsp;
         <br/>
         <pre>
-        <br/>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
         ☁ Digging into Cloud and Distributed systems
         🔒 Exploring cybersecurity
