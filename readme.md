@@ -78,8 +78,8 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/infamous-second.gif" alt="Delsin">
-  I spend more time thinking about doing projects than doing them.
+  <img src="./assets/infamous-second.gif" alt="Delsin" align="right">
+  I spend more time<br/>thinking about doing<br/>projects than doing them.
 </div>
 
 <br/>
