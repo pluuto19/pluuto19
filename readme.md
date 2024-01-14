@@ -77,7 +77,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="clear: both;">
   <img src="./assets/infamous-second.gif" alt="Delsin" align="right">
   I spend more time<br/>thinking about doing<br/>projects than doing them.
 </div>
