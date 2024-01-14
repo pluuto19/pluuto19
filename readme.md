@@ -84,6 +84,6 @@
 
 
 
-<div align="center" style="clear: both;">
+<!-- <div align="center" style="clear: both;">
   <img src="./assets/connor-mission-success.gif" alt="Connor End"> 
-</div>
+</div> -->
