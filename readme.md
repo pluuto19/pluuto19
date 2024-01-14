@@ -9,7 +9,8 @@
   <tr>
     <td width="50%">
       <p align="center">
-        Trying to find motivation to do projects and grind LeetCode &nbsp;  
+        Trying to find motivation to do projects and grind LeetCode &nbsp;
+	      <br/>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
         ☁ Digging into Cloud and Distributed systems
         🔒 Exploring cybersecurity
@@ -18,6 +19,7 @@
       </p>
     </td>
     <td width="50%">
+	    <br/>
       I like working with these &nbsp;
 	    <br/>
 	    <br/>
