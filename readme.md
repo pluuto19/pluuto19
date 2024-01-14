@@ -1,15 +1,20 @@
 ![Greetings](./assets/greeting.png)
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asher-siddique-25633b139/) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asheeerrrrrr/) &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/854772660596899860) &nbsp;
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d)
 
+</div>
+
 <table width="100%">
   <tr>
     <td width="50%">
       <p align="center">
-        Trying to find motivation to do projects and grind LeetCode
+        Trying to find motivation to do projects and grind LeetCode &nbsp;
+	      <br/>
         <pre>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
         ☁ Digging into Cloud and Distributed systems
@@ -20,7 +25,10 @@
       </p>
     </td>
     <td width="50%">
-      I like working with these
+	    <br/>
+      I like working with these &nbsp;
+	    <br/>
+	    <br/>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -49,9 +57,9 @@
 
 ---
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
+<div align="center"><a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E" alt="Data Card for Spotify">
-</a>
+</a></div>
 <br/>
 I spend more time thinking about doing projects than doing them
 
