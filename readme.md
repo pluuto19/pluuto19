@@ -82,7 +82,7 @@
   I spend more time<br/>thinking about doing<br/>projects than doing them.
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="./assets/connor-mission-success.gif" alt="Connor End"> 
