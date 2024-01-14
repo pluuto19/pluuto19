@@ -1,10 +1,18 @@
 ![Greetings](./assets/greeting.png)
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asher-siddique-25633b139/) &nbsp;
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asheeerrrrrr/) &nbsp;
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/854772660596899860) &nbsp;
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d)
+<a href="https://www.linkedin.com/in/asher-siddique-25633b139/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;
+<a href="https://www.instagram.com/asheeerrrrrr/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>&nbsp;
+<a href="https://discordapp.com/users/854772660596899860">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>&nbsp;
+<a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
 </div>
 
 <table width="100%">
