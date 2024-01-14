@@ -8,14 +8,16 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center" style="font-family: 'Sono', sans-serif;">
+      <p align="center">
         Trying to find motivation to do projects and grind LeetCode &nbsp;
 	      <br/>
+        <pre>
         🎓 BSC Junior @ NUCES • Backend dev • System Design
         ☁ Digging into Cloud and Distributed systems
         🔒 Exploring cybersecurity
         🤝 Contributing to open source in free time
         🎮 Games • Anime • Manga • 👨‍🍳 Cooking
+        </pre>
       </p>
     </td>
     <td width="50%">
