@@ -2,16 +2,16 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/asher-siddique-25633b139/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff">
 </a>&nbsp;
 <a href="https://www.instagram.com/asheeerrrrrr/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img alt="Instagram" src="https://img.shields.io/badge/instagram-2c384a?style=flat-square&logo=instagram&logoColor=ffffff">
 </a>&nbsp;
 <a href="https://discordapp.com/users/854772660596899860">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff">
 </a>&nbsp;
 <a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  <img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff">
 </a>
 </div>
 
@@ -33,6 +33,7 @@
       </p>
     </td>
     <td width="50%">
+      <br/>
       I like working with
       <br/>
       <br/>
@@ -50,7 +51,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-2c384a?style=flat-square&logo=ubuntu&logoColor=ffffff">
         <img alt="Static Badge" src="https://img.shields.io/badge/git-2c384a?style=flat-square&logo=git&logoColor=ffffff">
       </div>
-      <br/>
       and plan to explore
       <br/>
       <br/>
