@@ -1,4 +1,7 @@
-![Greetings](./assets/greetings.png)
+<div align="center">
+<img alt="Static Badge" src="./assets/greetings.png">
+<img alt="Static Badge" src="./assets/gojo.gif">
+</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/asher-siddique-25633b139/">
@@ -52,7 +55,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/git-2c384a?style=flat-square&logo=git&logoColor=ffffff">
       </div>
       and plan to explore
-      <br/>
       <br/>
       <div align="center">
         <img alt="Static Badge" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
