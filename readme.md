@@ -1,10 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <div style="order: 1; margin-right: 10px;">
-    <img alt="Static Badge" src="./assets/greetings.png">
-  </div>
-  <div style="order: 2;">
-    <img alt="Static Badge" src="./assets/gojo.gif">
-  </div>
+<div align="center">
+  <img alt="Static Badge" src="./assets/greetings.png" width="45%">
+  <img alt="Static Badge" src="./assets/gojo.gif" width="45%">
 </div>
 
 <div align="center">
