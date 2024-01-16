@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
 <img alt="Static Badge" src="./assets/greetings.png">
 <img alt="Static Badge" src="./assets/gojo.gif">
 </div>
