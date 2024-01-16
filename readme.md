@@ -33,23 +33,36 @@
       </p>
     </td>
     <td width="50%">
-      <br/>
-      I like working with these &nbsp;
-      <br/>
+      I like working with
       <br/>
       <div align="center">
-      <img alt="Static Badge" src="https://img.shields.io/badge/node.js-2c384a?style=flat-square&logo=nodedotjs&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/mysql-2c384a?style=flat-square&logo=mysql&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/express-2c384a?style=flat-square&logo=express&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-2c384a?style=flat-square&logo=springboot&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/jasmine-2c384a?style=flat-square&logo=jasmine&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/npm-2c384a?style=flat-square&logo=npm&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/maven-2c384a?style=flat-square&logo=maven&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-2c384a?style=flat-square&logo=ubuntu&logoColor=ffffff">
-      <img alt="Static Badge" src="https://img.shields.io/badge/git-2c384a?style=flat-square&logo=git&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-2c384a?style=flat-square&logo=nodedotjs&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/mysql-2c384a?style=flat-square&logo=mysql&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/express-2c384a?style=flat-square&logo=express&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-2c384a?style=flat-square&logo=springboot&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jasmine-2c384a?style=flat-square&logo=jasmine&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/npm-2c384a?style=flat-square&logo=npm&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/maven-2c384a?style=flat-square&logo=maven&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-2c384a?style=flat-square&logo=ubuntu&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/git-2c384a?style=flat-square&logo=git&logoColor=ffffff">
+      </div>
+      <br/>
+      and plan to explore
+      <br/>
+      <div align="center">
+        <img alt="Static Badge" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonaws&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/azure-2c384a?style=flat-square&logo=microsoftazure&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/bunjs-2c384a?style=flat-square&logo=bun&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/nginx-2c384a?style=flat-square&logo=nginx&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/mocha-2c384a?style=flat-square&logo=mocha&logoColor=ffffff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/chai-2c384a?style=flat-square&logo=chai&logoColor=ffffff">
       </div>
     </td>
   </tr>
