@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Static Badge" src="./assets/greetings.png" width="50%">
+  <img alt="Static Badge" src="./assets/greetings.png" width="70%">
   <img alt="Static Badge" src="./assets/gojo.gif" width="10%">
 </div>
 
