@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="Static Badge" src="./assets/greetings.png" width="45%">
-  <img alt="Static Badge" src="./assets/gojo.gif" width="45%">
+  <img alt="Static Badge" src="./assets/greetings.png" width="90%">
+  <img alt="Static Badge" src="./assets/gojo.gif" width="10%">
 </div>
 
 <div align="center">
