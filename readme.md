@@ -1,4 +1,4 @@
-![Greetings](./assets/greeting.png)
+![Greetings](./assets/greetings.png)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/asher-siddique-25633b139/">
@@ -35,6 +35,7 @@
     <td width="50%">
       I like working with
       <br/>
+      <br/>
       <div align="center">
         <img alt="Static Badge" src="https://img.shields.io/badge/node.js-2c384a?style=flat-square&logo=nodedotjs&logoColor=ffffff">
         <img alt="Static Badge" src="https://img.shields.io/badge/mysql-2c384a?style=flat-square&logo=mysql&logoColor=ffffff">
@@ -51,6 +52,7 @@
       </div>
       <br/>
       and plan to explore
+      <br/>
       <br/>
       <div align="center">
         <img alt="Static Badge" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
