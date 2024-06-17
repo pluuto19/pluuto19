@@ -66,21 +66,16 @@ Making side projects and writing Leetcode
 
 ---
 
-<div style="display: flex;">
-<div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 10px;">
-<h3 style="">Find out what I listen to daily 🎶</h3>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="200px" width="250px"/>
-</div>
-<div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 10px;">
+<div style="display: flex; width:100%; flex-direction: column; align-items: center; justify-content: center;">
 <h3>Always pumping these numbers up!</h3>
 <img src="https://leetcard.jacoblin.cool/pluuto?theme=dark&font=Source%20Code%20Pro&ext=activity"/>
 </div>
+<div style="display: flex; align-items: center; justify-content: center; margin-top:50px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
 </div>
-
-<br />
-
-<div style="display: flex; align-items: center; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:200px">
+<div style="display: flex; width:100%; flex-direction: column; align-items: center; justify-content: center;">
+<h3 style="">Find out what I listen to daily 🎶</h3>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="400px" width="450px"/>
 </div>
 
 <br />
