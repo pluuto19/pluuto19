@@ -26,12 +26,12 @@
 Making side projects and writing Leetcode
 </p>
 <pre style="text-align: left; padding-top: 15px;">
-    🎓 BSC Junior @ NUCES
-    💻 Backend Development • ☁ Cloud Computing 
-    🔧 System Design
-    ☁ Exploring Cloud and Distributed Systems
-    🤝 Contributing to Open Source during free time
-    🎮 Games • Anime • Manga • 👨‍🍳 Cooking
+        🎓 BSC Junior @ NUCES
+        💻 Backend Development • ☁ Cloud Computing 
+        🔧 System Design
+        ☁ Exploring Cloud and Distributed Systems
+        🤝 Contributing to Open Source during free time
+        🎮 Games • Anime • Manga • 👨‍🍳 Cooking
 </pre>
 </td>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
