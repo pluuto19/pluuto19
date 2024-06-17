@@ -66,14 +66,14 @@ Making side projects and writing Leetcode
 
 ---
 
-<div style="display: flex; width:100%; flex-direction: column; align-items: center; justify-content: center;">
+<div style="display: flex; width:100%;" align="center">
 <h3>Always pumping these numbers up!</h3>
 <img src="https://leetcard.jacoblin.cool/pluuto?theme=dark&font=Source%20Code%20Pro&ext=activity"/>
 </div>
-<div style="display: flex; align-items: center; justify-content: center; margin-top:50px">
+<div style="display: flex; margin-top:50px" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
 </div>
-<div style="display: flex; width:100%; flex-direction: column; align-items: center; justify-content: center;">
+<div style="display: flex; width:100%;" align="center">
 <h3 style="">Find out what I listen to daily 🎶</h3>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="400px" width="450px"/>
 </div>
