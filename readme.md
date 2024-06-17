@@ -70,7 +70,8 @@ Making side projects and writing Leetcode
 <h3>Always pumping these numbers up!</h3>
 <img src="https://leetcard.jacoblin.cool/pluuto?theme=dark&font=Source%20Code%20Pro&ext=activity"/>
 </div>
-<div style="display: flex; margin-top:50px" align="center">
+<br/>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
 </div>
 <div style="display: flex; width:100%;" align="center">
