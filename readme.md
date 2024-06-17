@@ -48,7 +48,7 @@ Making side projects and writing Leetcode
 <img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
 <img alt="Linux" src="https://img.shields.io/badge/linux-2c384a?style=flat-square&logo=linux&logoColor=ffffff">
 </div>
-<p><b>Plan to explore:</b></p>
+<p><b>and I plan to explore:</b></p>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 <img alt="Arch Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
 <img alt="Python" src="https://img.shields.io/badge/python-2c384a?style=flat-square&logo=python&logoColor=ffffff">
@@ -69,7 +69,7 @@ Making side projects and writing Leetcode
 <div style="display: flex;">
 <div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 10px;">
 <h3 style="">Find out what I listen to daily 🎶</h3>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="400px" width="450px"/>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="200px" width="250px"/>
 </div>
 <div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 10px;">
 <h3>Always pumping these numbers up!</h3>
@@ -80,7 +80,7 @@ Making side projects and writing Leetcode
 <br />
 
 <div style="display: flex; align-items: center; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:200px">
 </div>
 
 <br />
