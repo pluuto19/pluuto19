@@ -1,88 +1,106 @@
 <div align="center">
-  <img alt="Static Badge" src="./assets/greetings.png" width="70%">
-  <img alt="Static Badge" src="./assets/gojo.gif" width="10%">
+	<img alt="Greetings" src="./assets/greetings.png" width="70%" />
+	<img alt="Gojo GIF" src="./assets/gojo.gif" width="10%" />
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/asher-siddique-25633b139/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff">
-</a>&nbsp;
-<a href="https://www.instagram.com/asheeerrrrrr/">
-  <img alt="Instagram" src="https://img.shields.io/badge/instagram-2c384a?style=flat-square&logo=instagram&logoColor=ffffff">
-</a>&nbsp;
-<a href="https://discordapp.com/users/854772660596899860">
-  <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff">
-</a>&nbsp;
-<a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d">
-  <img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff">
-</a>
+	<a href="https://www.linkedin.com/in/asher-siddique-25633b139/"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff" /> </a>&nbsp; <a href="https://www.instagram.com/asheeerrrrrr/"> <img alt="Instagram" src="https://img.shields.io/badge/instagram-2c384a?style=flat-square&logo=instagram&logoColor=ffffff" /> </a>&nbsp;
+	<a href="https://discordapp.com/users/854772660596899860"> <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff" /> </a>&nbsp;
+	<a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d">
+		<img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" />
+	</a>
 </div>
 
-<br/>
+<br />
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        Trying to find motivation to do projects and grind LeetCode &nbsp;
-        <br/>
-        <pre>
-        🎓 BSC Junior @ NUCES • Backend dev • System Design
-        ☁ Digging into Cloud and Distributed systems
-        🔒 Exploring cybersecurity
-        🤝 Contributing to open source in free time
-        🎮 Games • Anime • Manga • 👨‍🍳 Cooking
-        </pre>
-      </p>
-    </td>
-    <td width="50%">
-      <br/>
-      I like working with
-      <br/>
-      <div align="center">
-        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-2c384a?style=flat-square&logo=nodedotjs&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/mysql-2c384a?style=flat-square&logo=mysql&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/express-2c384a?style=flat-square&logo=express&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-2c384a?style=flat-square&logo=springboot&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/jasmine-2c384a?style=flat-square&logo=jasmine&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/npm-2c384a?style=flat-square&logo=npm&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/maven-2c384a?style=flat-square&logo=maven&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-2c384a?style=flat-square&logo=ubuntu&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/git-2c384a?style=flat-square&logo=git&logoColor=ffffff">
-      </div>
-      and plan to explore
-      <br/>
-      <div align="center">
-        <img alt="Static Badge" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonaws&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/azure-2c384a?style=flat-square&logo=microsoftazure&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/bunjs-2c384a?style=flat-square&logo=bun&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/nginx-2c384a?style=flat-square&logo=nginx&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/mocha-2c384a?style=flat-square&logo=mocha&logoColor=ffffff">
-        <img alt="Static Badge" src="https://img.shields.io/badge/chai-2c384a?style=flat-square&logo=chai&logoColor=ffffff">
-      </div>
-    </td>
-  </tr>
+<div>
+	<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=pluuto19&screen_effect=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=issues&dithering=true">
+</div>
+
+<br />
+
+<table style="width: 100%; border-spacing: 10px; table-layout: fixed;">
+	<tr>
+		<td style="vertical-align: top; padding: 10px; width: 50%;">
+			<p align="center">
+			Making side projects and writing Leetcode
+			<br/>
+			<pre style="text-align: left; padding-top: 15px;">
+			🎓 BSC Junior @ NUCES
+			💻 Backend Development • ☁ Cloud Computing 
+			🔧 System Design
+			☁ Exploring Cloud and Distributed Systems
+			🤝 Contributing to Open Source during free time
+			🎮 Games • Anime • Manga • 👨‍🍳 Cooking
+			</pre>
+			</p>
+		</td>
+		<td style="vertical-align: top; padding: 10px; width: 50%;">
+			<p><b>I like working with:</b></p>
+			<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+			<img alt="Go" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
+			<img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
+			<img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
+			<img alt="Redis" src="https://img.shields.io/badge/redis-2c384a?style=flat-square&logo=redis&logoColor=ffffff">
+			<img alt="Node.js" src="https://img.shields.io/badge/node.js-2c384a?style=flat-square&logo=nodedotjs&logoColor=ffffff">
+			<img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
+			<img alt="Express" src="https://img.shields.io/badge/express-2c384a?style=flat-square&logo=express&logoColor=ffffff">
+			<img alt="Postman" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
+			<img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
+			<img alt="Linux" src="https://img.shields.io/badge/linux-2c384a?style=flat-square&logo=linux&logoColor=ffffff">
+			</div>
+			<p><b>Plan to explore:</b></p>
+			<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+			<img alt="Arch Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
+			<img alt="Python" src="https://img.shields.io/badge/python-2c384a?style=flat-square&logo=python&logoColor=ffffff">
+			<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
+			<img alt="Bun.js" src="https://img.shields.io/badge/bun.js-2c384a?style=flat-square&logo=bun&logoColor=ffffff">
+			<img alt="Nginx" src="https://img.shields.io/badge/nginx-2c384a?style=flat-square&logo=nginx&logoColor=ffffff">
+			<img alt="Firebase" src="https://img.shields.io/badge/firebase-2c384a?style=flat-square&logo=firebase&logoColor=ffffff">
+			<img alt="CUDA" src="https://img.shields.io/badge/cuda-2c384a?style=flat-square&logo=nvidia&logoColor=ffffff">
+			</div>
+		</td>
+	</tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<h3>I'm always jamming to my playlists 🎶</h3>
-
-<br/>
-
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&show_border=1&custom_title=groove%20with%20me%20%5E%5E" alt="Data Card for Spotify">
-  </a>
+<div style="display: flex;">
+	<div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 10px;">
+		<h3 style="">Find out what I listen to daily 🎶</h3>
+		<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="400px" width="450px"/>
+	</div>
+	<div style="flex:1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 10px;">
+		<h3>Always pumping these numbers up!</h3>
+		<img src="https://leetcard.jacoblin.cool/pluuto?theme=dark&font=Source%20Code%20Pro&ext=activity"/>
+	</div>
 </div>
 
-<br/>
+<br />
+
+<div style="display: flex; align-items: center; justify-content: center;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
+</div>
+
+<br />
+
+---
+
+### 📚 I prefer books over video content anyday for learning, and here are my current favourites
+
+-  [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+-  [The Go Programming Language by Alan A.A. Donovan](https://www.gopl.io/)
+-  [Concurrency in Go by Katherine Cox Buday](https://katherine.cox-buday.com/concurrency-in-go/)
+-  [Redis in Action by Josiah L. Carlson](https://www.manning.com/books/redis-in-action)
+
+---
+
+### 🤝 I'd love to collab on anything
+
+-  Go
+-  Backend Developement
+-  Java
+
+Hit me up on either my socials or email me @ ashersiddique127@gmail.com
