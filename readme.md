@@ -1,14 +1,9 @@
 <div align="center">
 <img alt="Greetings" src="./assets/greetings.png" width="70%" />
-<img alt="Gojo GIF" src="./assets/gojo.gif" width="10%" />
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/asher-siddique-25633b139/"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff" /> </a>&nbsp; <a href="https://www.instagram.com/asheeerrrrrr/"> <img alt="Instagram" src="https://img.shields.io/badge/instagram-2c384a?style=flat-square&logo=instagram&logoColor=ffffff" /> </a>&nbsp;
-<a href="https://discordapp.com/users/854772660596899860"> <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff" /> </a>&nbsp;
-<a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d">
-<img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" />
-</a>
+<a href="https://www.linkedin.com/in/asher-siddique-25633b139/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff" /> </a> &nbsp; <a href="https://discordapp.com/users/854772660596899860"> <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff" /><a> &nbsp; <a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d"> <img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" /> </a>
 </div>
 
 <br />
@@ -26,27 +21,22 @@
 Making side projects and writing Leetcode
 </p>
 <pre style="text-align: left; padding-top: 15px;">
-    🎓 BSC Senior @ NUCES
+    🎓 Software Engineer Undergraduate @ NUCES
     💻 Backend Development • ☁ Cloud Computing 
     💻 DevOps • 🔧 System Design 
-    ☁ Exploring DevOps and Distributed Systems
-    🤝 Contributing to Open Source during free time    
     🎮 Games • Anime • Manga • 👨‍🍳 Cooking
 </pre>
 </td>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
-<p><b>I like working with:</b></p>
+<p><b>Tech that I work with</b></p>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
 <img alt="Go" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
-<img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
-<img alt="Redis" src="https://img.shields.io/badge/redis-2c384a?style=flat-square&logo=redis&logoColor=ffffff">
-<img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
-<img alt="Postman" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
-<img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
-<img alt="Arch Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
-<img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
 <img alt="Python" src="https://img.shields.io/badge/python-2c384a?style=flat-square&logo=python&logoColor=ffffff">
+<img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
+<img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
+<img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
+<img alt="Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
 </div>
 </td>
 </tr>
@@ -65,8 +55,6 @@ Making side projects and writing Leetcode
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
 </div>
 <div style="display: flex; width:100%;" align="center">
-<h3 style="">Find out what I listen to daily 🎶</h3>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=55cgfk304ony06pjjk21txto3&hide_title=1&hide_recents=1" alt="Data Card for Spotify" height="400px" width="450px"/>
 </div>
 
 <br />
