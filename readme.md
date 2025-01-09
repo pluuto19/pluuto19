@@ -8,6 +8,7 @@
 
 <br />
 
+<div align="center">
 <table style="width: 100%; border-spacing: 10px; table-layout: fixed;">
 <tr>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
@@ -22,7 +23,7 @@ Making side projects and solving Leetcode
 </pre>
 </td>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
-<p><b>Tech that I work with</b></p>
+<p align="center"><b>Tech that I work with</b></p>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
 <img alt="Go" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
 <img alt="Python" src="https://img.shields.io/badge/python-2c384a?style=flat-square&logo=python&logoColor=ffffff">
@@ -36,6 +37,7 @@ Making side projects and solving Leetcode
 </td>
 </tr>
 </table>
+</div>
 
 <br />
 
