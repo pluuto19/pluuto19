@@ -12,7 +12,7 @@
 <tr>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
 <p align="center">
-Making side projects and writing Leetcode
+Making side projects and solving Leetcode
 </p>
 <pre style="text-align: left; padding-top: 15px;">
     🎓 Software Engineer Undergraduate @ NUCES
@@ -29,8 +29,9 @@ Making side projects and writing Leetcode
 <img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
 <img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
+<br />
 <img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
-<img alt="Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=linux&logoColor=ffffff">
+<img alt="Linux" src="https://img.shields.io/badge/linux-2c384a?style=flat-square&logo=linux&logoColor=ffffff">
 </div>
 </td>
 </tr>
