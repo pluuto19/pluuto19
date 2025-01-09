@@ -7,7 +7,7 @@
 </div>
 
 <br />
-<p align="center">
+
 <table style="width: 100%; border-spacing: 10px; table-layout: fixed;">
 <tr>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
@@ -36,7 +36,8 @@ Making side projects and solving Leetcode
 </td>
 </tr>
 </table>
-</p>
+
+<br />
 
 <div>
 <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=pluuto19&screen_effect=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=issues&dithering=true">
