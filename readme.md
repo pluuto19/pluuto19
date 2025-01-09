@@ -8,12 +8,6 @@
 
 <br />
 
-<div>
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=pluuto19&screen_effect=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=issues&dithering=true">
-</div>
-
-<br />
-
 <table style="width: 100%; border-spacing: 10px; table-layout: fixed;">
 <tr>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
@@ -36,11 +30,15 @@ Making side projects and writing Leetcode
 <img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
 <img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
-<img alt="Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
+<img alt="Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=linux&logoColor=ffffff">
 </div>
 </td>
 </tr>
 </table>
+
+<div>
+<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=pluuto19&screen_effect=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=issues&dithering=true">
+</div>
 
 <br />
 
