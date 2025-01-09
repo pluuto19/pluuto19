@@ -8,7 +8,7 @@
 
 <br />
 
-<table style="align=center; width: 100%; border-spacing: 10px; table-layout: fixed;">
+<table style="align: center; width: 100%; border-spacing: 10px; table-layout: fixed;">
 <tr>
 <td style="vertical-align: top; padding: 10px; width: 50%;">
 <p align="center">
