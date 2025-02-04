@@ -3,7 +3,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://www.linkedin.com/in/asher-siddique-25633b139/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff" /> </a> &nbsp; <a href="https://discordapp.com/users/854772660596899860"> <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff" /><a> &nbsp; <a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d"> <img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" /> </a>
+<a href="https://medium.com/@asher-siddique"><img alt="Static Badge" src="https://img.shields.io/badge/medium-2c384a?style=flat-square&logo=medium&logoColor=ffffff" /> </a> &nbsp; <a href="https://www.linkedin.com/in/asher-siddique-25633b139/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff" /> </a> &nbsp; <a href="https://discordapp.com/users/854772660596899860"> <img alt="Static Badge" src="https://img.shields.io/badge/discord-2c384a?style=flat-square&logo=discord&logoColor=ffffff" /><a> &nbsp; <a href="https://open.spotify.com/user/55cgfk304ony06pjjk21txto3?si=16d0c796acbd454d"> <img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" /> </a>
 </div>
 
 <br />
